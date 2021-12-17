@@ -25,6 +25,10 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 members
 ex: members/diego3g
 
+## Cruso se Introdução ao Next.js do Diego RoacketSeat
+
+[Video Youtube](https://www.youtube.com/watch?v=u1kCtkVR7cE)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
